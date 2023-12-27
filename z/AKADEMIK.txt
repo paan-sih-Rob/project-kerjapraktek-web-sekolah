@@ -1,0 +1,18 @@
+{ foto }
+Judul : Kurikulum
+lorem 20kata
+
+
+
+{ video Pembelajaran }
+
+
+
+ExtraKulikuler :
+
+{Foto bisa di klik ]		{Foto bisa di klik ]		{Foto bisa di klik ]
+Futsal				Hadroh				Muhadoroh
+
+
+
+

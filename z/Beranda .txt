@@ -1,0 +1,19 @@
+Beranda :
+
+* slide Gambar
+ - Otomatis slide + botton slide
+
+* Tittle (Berita Informasi Kegiatan)
+ - 4-5 Column(Gambar, tittle, dan Deskripsi) ke samping (note! tombol bisa slide kesamping)
+ - tombol view lihat lebih lanjut kehalaman Berita
+
+* Title (Baitul Qur'an Mardhotillaha)
+ - kanan Logo, Kiri Informasi profil sekolah
+ - tombol view lihat lebih lanjut kehalaman Profil
+* Title (Galery)
+ - 4-5 column(gambar dan title) ke samping (note! tombol bisa slide kesamping
+ - tombol view lihat lebih lanjut kehalaman galery
+
+* Tittle (Akademik) 
+ - (isi) informasi akademik
+ - tombol view lihat lebih lanjut kehalaman akademik

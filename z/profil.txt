@@ -1,0 +1,40 @@
+halaman profil :
+
+foto dibagian atas adalah foto sekolah/bangunan yayasan 
+  { FOTO }
+nah dibawahnya terdapat tulisan yaitu tentang sejarah
+seperti ini :
+-------------------------------------------------------------------------------
+{ FOTO }
+Sejarah berdirinya BQM (Baitul Qur'an Mardhotilla) karena pada awalnya ibu Laduni Wahyu Pertiwi ingin dirumahnya selalu terdengar
+bacaan Al Qur'an dan pada awalnya hanya warga sekitar saja 1,2 orang yang ingin mengaji, dan alhamdulillah seiring berjalannya
+waktu santri santri banyak yang ingin mengaji alhamdulillah cita cita Ibu Laduni wahyu Pertiwi terwujud setiap hari dirumahnya 
+ada bacaan al Qur'an
+
+{FOTO KETUA YAYASAN	} Motivasi membuka lembaga pengajian, motivasinya tercermin dari motto Berkontribusi membentuk generasi Qur'ani Ber Akhlak Terpuji
+{ FOTO KETUA YAYASAN	} dan mencapai ridho ilahi.Tujuannya adalah keberkahan dari mengajar mengaji ini semoga terpancar
+			 tidak hanya di keluarga, tetapi juga disekitar tempat pengajian, dan anak anak yang mengaji disini
+			akan selalu membawa dan memancarkan sinar sinar Qur'an ketika dia pulang ke keluarga nya masing masing 
+
+
+Visi :lorem 50kata
+Misi : lorem 100 kata
+
+lalu dibawahnya ada kolom kolom foto untuk guru buat 4 kolom kesamping ikuti jumlah ini
+{foto}		{foto}		{foto}		{foto}
+nama	:	nama 	:	nama	:	nama 	:
+Jabatan :	Jabatan :	Jabatan :	Jabatan :
+
+foto}		{foto}		{foto}		{foto}
+nama	:	nama 	:	nama	:	nama 	:
+Jabatan :	Jabatan :	Jabatan :	Jabatan :
+
+foto}		{foto}		{foto}		{foto}
+nama	:	nama 	:	nama	:	nama 	:
+Jabatan :	Jabatan :	Jabatan :	Jabatan :
+
+
+
+
+
+
